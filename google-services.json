@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780707368246",
+    "project_id": "passorjoin",
+    "storage_bucket": "passorjoin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780707368246:android:dab6dd9165e676f85df797",
+        "android_client_info": {
+          "package_name": "com.passorjoin.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz7itJFtE3tGCk_6-yBUOBVHvJ9AiZ3Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,7 @@
 {
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5306738597992925~1562057124"
+  },
   "expo": {
     "name": "passorjoin",
     "slug": "passorjoin",
@@ -19,6 +22,7 @@
       "bundleIdentifier": "com.passorjoin.com"
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
